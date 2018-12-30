@@ -9,3 +9,5 @@ Things i  will upload soon are -</br>
 1.Multinomial logistic regression implementation</br>
 2.working with some cool datasets </br>
 3.Tensorflow implementation </br>
+
+#found any bug? fork update and pull ;) </br>
